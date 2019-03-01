@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CountryFlags</string>
+    <string name="menu_title_search">Search</string>
+    <string name="country_flag_description">Country flag</string>
 </resources>
